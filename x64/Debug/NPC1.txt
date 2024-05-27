@@ -1,0 +1,28 @@
+Name,NPC1
+Level,1
+Experience,0
+Proficiency Bonus,+1
+Hit Points,10
+Armor Class,0
+Hit Dice: d,10
+Attack Bonus,1
+Damage Bonus,4
+Fighter type,Bully
+
+Equipment:
+Armor:SwiftMail
+ArmorClass +2, 
+Belt:IronClasp
+Constitution +1, Strength +1, 
+Boots:SwiftStriders
+ArmorClass +2, Dexterity +3, 
+Helmet:Dragonhelm
+ArmorClass +1, Intelligence +3, Wisdom +5, 
+Ring:DarkBand
+ArmorClass +5, Charisma +4, Constitution +4, Strength +5, Wisdom +3, 
+Shield:SteelGuard
+ArmorClass +5, 
+Weapon:ShadowBlade
+AttackBonus +2, DamageBonus +2, 
+
+Ability Scores,Strength 16 3,Dexterity 12 1,Constitution 16 3,Intelligence 13 1,Wisdom 10 0,Charisma 15 2,

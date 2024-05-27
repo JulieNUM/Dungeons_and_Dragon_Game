@@ -1,0 +1,6 @@
+[Sun May 26 21:36:21 2024] Roll hit points: 10
+[Sun May 26 21:36:21 2024] Fighter choice: Bully
+[Sun May 26 21:36:21 2024] Roll hit points: 13
+[Sun May 26 21:36:21 2024] Roll hit points: 13
+[Sun May 26 21:36:21 2024] Roll hit points: 13
+[Sun May 26 21:36:21 2024] Character leveled up to level 4
