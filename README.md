@@ -35,9 +35,3 @@ A turn-based, single-player role-playing game developed in **C++** that adheres 
 - **Combat System**: Follows the d20 system, where players roll dice to determine the outcome of combat actions.
 - **NPC Interactions**: Depending on the NPC type, players can have friendly interactions or engage in combat.
 
-## Setup Instructions
-
-### 1. **Clone the Repository**
-```bash
-git clone https://github.com/your-username/dungeons-dragons-game.git
-cd dungeons-dragons-game
